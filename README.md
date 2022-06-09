@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Kinal Mehta, a MS student at IIIT Hyderabad. I'm working on Multi-agent Reinforcement Learning for my thesis.
+
+![](https://github-readme-stats.vercel.app/api?username=kinalmehta)
